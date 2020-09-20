@@ -1,0 +1,53 @@
+/* Add styling with CSS here */
+/* if you are styling a tag NO PERIOD in the front */
+/* if you are styling a class that you created, NEED PERIOD  */
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: darkcyan;
+    text-align: center;
+}
+
+.subtitle {
+    color: darkcyan;
+    text-align: center;
+    text-decoration: underline;
+}
+a {
+    color: darkcyan;
+    text-decoration: none;
+}
+p {
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.flex-container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+li{
+    color: darkcyan;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
